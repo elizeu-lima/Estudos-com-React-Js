@@ -1,0 +1,7 @@
+header{
+    display: flex;
+    justify-content:center;
+    alin-items: center;
+    background: black;
+    padding: 25px;
+}
